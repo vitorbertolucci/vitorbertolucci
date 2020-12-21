@@ -1,5 +1,4 @@
 ### Hi there 👋
 
 🖥️ Tecnologias que utilizo
-[typescript](https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/typescript/typescript-original.svg) [javascript](https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg)
-
+<img src="images/typescript-original.svg" width="50" height="50" /><img src="images/javascript-original.svg" width="50" height="50" /><img src="images/docker-original.svg" width="50" height="50" /><img src="images/express-original.svg" width="50" height="50" /><img src="images/github-original.svg" width="50" height="50" /><img src="images/mysql-original.svg" width="50" height="50" /><img src="images/nodejs-original.svg" width="50" height="50" /><img src="images/postgresql-original.svg" width="50" height="50" /><img src="images/react-original.svg" width="50" height="50" /><img src="images/redux-original.svg" width="50" height="50" /><img src="images/sequelize-original.svg" width="50" height="50" /><img src="images/styled-components.png" width="50" height="50" />
