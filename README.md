@@ -6,6 +6,7 @@ I'm a full stack developer from Brazil, currently focused on the JavaScript ecos
 
 ### 🤓 Personal projects<br />
 - [Tibia Coins List](https://tibiacoinslist.com)
+- [DARF.app](https://darf.app)
 
 ### 💖 Open source projects<br />
 - [react-cached-fetch](npmjs.com/package/react-cached-fetch)
