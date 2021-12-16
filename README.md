@@ -9,7 +9,7 @@ I'm a full stack developer from Brazil, currently focused on the JavaScript ecos
 - [DARF.app](https://darf.app)
 
 ### 💖 Open source projects<br />
-- [react-cached-fetch](npmjs.com/package/react-cached-fetch)
+- [react-cached-fetch](https://npmjs.com/package/react-cached-fetch)
 
 ### 📃 My blogs<br />
 - [Safely handling JWT authentication in React apps with Express backend](https://vitorbertolucci.medium.com/safely-handling-jwt-authentication-in-react-apps-with-express-backend-6576aa3ec7fa)<br />
